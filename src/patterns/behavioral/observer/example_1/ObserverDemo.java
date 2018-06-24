@@ -1,8 +1,5 @@
-package patterns.behavioral.observer;
+package patterns.behavioral.observer.example_1;
 
-/**
- * Created by petro on 30-Sep-17.
- */
 public class ObserverDemo {
 
     public static void main(String[] args) {

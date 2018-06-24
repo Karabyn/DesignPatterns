@@ -1,8 +1,4 @@
-package patterns.behavioral.observer;
-
-/**
- * Created by Petro Karabyn on 30-Sep-17.
- */
+package patterns.behavioral.observer.example_1;
 
 public interface Subject {
 

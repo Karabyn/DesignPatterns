@@ -1,10 +1,6 @@
-package patterns.behavioral.observer;
+package patterns.behavioral.observer.example_1;
 
 import java.util.ArrayList;
-
-/**
- * Created by petro on 30-Sep-17.
- */
 
 public class StockGrabber implements Subject {
 

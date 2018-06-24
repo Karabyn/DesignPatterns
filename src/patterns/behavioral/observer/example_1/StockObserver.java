@@ -1,8 +1,4 @@
-package patterns.behavioral.observer;
-
-/**
- * Created by petro on 30-Sep-17.
- */
+package patterns.behavioral.observer.example_1;
 
 public class StockObserver implements Observer {
 
