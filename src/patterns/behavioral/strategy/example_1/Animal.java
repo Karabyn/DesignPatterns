@@ -1,4 +1,4 @@
-package patterns.behavioral.strategy;
+package patterns.behavioral.strategy.example_1;
 
 /**
  * Source: http://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/#viewSource

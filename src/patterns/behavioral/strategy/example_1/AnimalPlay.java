@@ -1,4 +1,4 @@
-package patterns.behavioral.strategy;
+package patterns.behavioral.strategy.example_1;
 
 public class AnimalPlay {
 
